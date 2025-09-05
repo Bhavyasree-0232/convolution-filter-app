@@ -1,1 +1,1 @@
-# convolution-filter-app
+# Convolution Filter App
